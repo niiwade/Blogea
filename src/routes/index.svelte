@@ -65,7 +65,7 @@
             <p class="mt-4 text-white dark:text-gray-400">No-code: The idea of moving, formatting and easily storing data without programming skills. If you can organize data, no-code gives you power to add new and ever expanding data and functionality to your list of resources.</p>
             <p class="mt-4 text-white dark:text-gray-400"> A web URL that returns nicely formatted data (not a webpage). Use this data in your own website, web app, phone app, reports, analytics, no-code spaghetti or anything else you can wrap your mind around.  </p>
             <div class="mt-8">
-                <a href="#" class="px-5 py-2 font-semibold text-black transition-colors duration-200 transform bg-gray-500 rounded-md hover:bg-gray-700">Start Now</a>
+                <a href="/features" class="px-5 py-2 font-semibold text-black transition-colors duration-200 transform bg-gray-500 rounded-md hover:bg-gray-700">Start Now</a>
             </div>
         </div>
     </div>
