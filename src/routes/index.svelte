@@ -3,19 +3,19 @@
 </svelte:head>
 
 
-<section class="bg-white dark:bg-gray-800">
+<section class="bg-black dark:bg-gray-800" >
     
     <div class="container px-6 py-16 mx-auto text-center">
         <div class="max-w-lg mx-auto">
-            <h1 class="text-3xl font-bold text-gray-800 dark:text-white md:text-4xl">Powerful endpoints used for beautiful websites.</h1>
+            <h1 class="text-3xl font-bold text-white dark:text-white md:text-4xl">Powerful endpoints used for beautiful websites.</h1>
             
-            <p class="mt-6 text-gray-500 dark:text-gray-300">
+            <p class="mt-6 text-white dark:text-gray-300">
                 You dont want to worry about building your api's because we got that covered.
             </p>
 
             <div class="w-full max-w-sm mx-auto mt-6 bg-transparent border rounded-md dark:border-gray-700 focus-within:border-blue-400 focus-within:ring focus-within:ring-blue-300 dark:focus-within:border-blue-300 focus-within:ring-opacity-40">
                 <form class="flex flex-col md:flex-row">
-                    <input type="email" placeholder="Enter your email address" class="flex-1 h-10 px-4 py-2 m-1 text-gray-700 placeholder-gray-400 bg-transparent border-none appearance-none dark:text-gray-200 focus:outline-none focus:placeholder-transparent focus:ring-0" /> 
+                    <input type="email" placeholder="Enter your email address" class="flex-1 h-10 px-4 py-2 m-1 text-white placeholder-gray-400 bg-transparent border-none appearance-none dark:text-gray-200 focus:outline-none focus:placeholder-transparent focus:ring-0" /> 
                     
                     <button type="button" class="h-10 px-4 py-2 m-1 text-white transition-colors duration-200 transform bg-blue-500 rounded-md hover:bg-blue-400 focus:outline-none focus:bg-blue-400">
                         Join Us
@@ -52,20 +52,20 @@
     </div>
 </section>
 
-<section class="bg-gray-100 dark:bg-gray-900 lg:py-12 lg:flex lg:justify-center">
-    <div class="bg-white dark:bg-gray-800 lg:mx-8 lg:flex lg:max-w-5xl lg:shadow-lg lg:rounded-lg">
+<section class="bg-black dark:bg-gray-900 lg:py-12 lg:flex lg:justify-center">
+    <div class="bg-gray-900 dark:bg-gray-800 lg:mx-8 lg:flex lg:max-w-5xl lg:shadow-lg lg:rounded-lg backdrop-blur-sm	backdrop-filter: blur(40px); ">
         <div class="lg:w-1/2">
             <div class="h-64 bg-cover lg:rounded-lg lg:h-full" style="background-image:url('https://images.unsplash.com/photo-1593642532400-2682810df593?ixlib=rb-1.2.1&ixid=MXwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80')"></div>
         </div>
 
         <div class="max-w-xl px-6 py-12 lg:max-w-5xl lg:w-1/2">
-            <h2 class="text-2xl font-bold text-gray-800 dark:text-white md:text-3xl">Build Your World Class <span class="text-blue-600 dark:text-blue-400">Idea with our API's</span></h2>
-            <p class="mt-4 text-gray-600 dark:text-gray-400">Fast: The setup and responses are so fast and reliable it feels like magic.</p>
-            <p class="mt-4 text-gray-600 dark:text-gray-400">Simple: Responses that are always structured and organized require less time to decipher giving you more time focus on the end goal. </p>
-            <p class="mt-4 text-gray-600 dark:text-gray-400">No-code: The idea of moving, formatting and easily storing data without programming skills. If you can organize data, no-code gives you power to add new and ever expanding data and functionality to your list of resources.</p>
-            <p class="mt-4 text-gray-600 dark:text-gray-400"> A web URL that returns nicely formatted data (not a webpage). Use this data in your own website, web app, phone app, reports, analytics, no-code spaghetti or anything else you can wrap your mind around.  </p>
+            <h2 class="text-2xl font-bold text-white dark:text-white md:text-3xl">Build Your World Class <span class="text-blue-600 dark:text-blue-400">Idea with our API's</span></h2>
+            <p class="mt-4 text-white dark:text-gray-400">Fast: The setup and responses are so fast and reliable it feels like magic.</p>
+            <p class="mt-4 text-white dark:text-gray-400">Simple: Responses that are always structured and organized require less time to decipher giving you more time focus on the end goal. </p>
+            <p class="mt-4 text-white dark:text-gray-400">No-code: The idea of moving, formatting and easily storing data without programming skills. If you can organize data, no-code gives you power to add new and ever expanding data and functionality to your list of resources.</p>
+            <p class="mt-4 text-white dark:text-gray-400"> A web URL that returns nicely formatted data (not a webpage). Use this data in your own website, web app, phone app, reports, analytics, no-code spaghetti or anything else you can wrap your mind around.  </p>
             <div class="mt-8">
-                <a href="#" class="px-5 py-2 font-semibold text-gray-100 transition-colors duration-200 transform bg-gray-900 rounded-md hover:bg-gray-700">Start Now</a>
+                <a href="#" class="px-5 py-2 font-semibold text-black transition-colors duration-200 transform bg-gray-500 rounded-md hover:bg-gray-700">Start Now</a>
             </div>
         </div>
     </div>
