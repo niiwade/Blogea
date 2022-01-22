@@ -218,7 +218,9 @@
 
 				<div class="border-t border-gray-200 pt-4">
 					<dt class="font-medium text-white">Data Sorting</dt>
-					<dd class="mt-2 text-sm text-white">6.25&quot; x 3.55&quot; x 1.15&quot;</dd>
+					<dd class="mt-2 text-sm text-white">/Utilities/sorting/alphabetize</dd>
+					]
+					<dd class="mt-2 text-sm text-white">/Utilities/sorting/alphabetizereverse</dd>
 					<button
 						class="text-white y-100 bg-transparent hover:bg-blue-600 x-23 font-semibold hover:text-white py-1 px-9 border border-  hover:border-transparent rounded"
 						>Read More</button
@@ -226,17 +228,18 @@
 				</div>
 
 				<div class="border-t border-gray-200 pt-4">
-					<dt class="font-medium text-white">Data Storage</dt>
+					<dt class="font-medium text-white">Storage</dt>
 					<dd class="mt-2 text-sm text-white">Hand sanded and finished with natural oil</dd>
 					<button
 						class="text-white y-100 bg-transparent hover:bg-blue-600 x-23 font-semibold hover:text-white py-1 px-9 border border-  hover:border-transparent rounded"
 						>Read More</button
-					>
+					>Data
 				</div>
 
 				<div class="border-t border-gray-200 pt-4">
 					<dt class="font-medium text-white">Bridges</dt>
-					<dd class="mt-2 text-sm text-white">Wood card tray and 3 refill packs</dd>
+					<dd class="mt-2 text-sm text-white">/Bridges/weather.gov/alerts</dd>
+					<dd class="mt-2 text-sm text-white">/Bridges/weather.gov/alertsState</dd>
 					<button
 						class="text-white y-100 bg-transparent hover:bg-blue-600 x-23 font-semibold hover:text-white py-1 px-9 border border-  hover:border-transparent rounded"
 						>Read More</button
@@ -245,9 +248,8 @@
 
 				<div class="border-t border-gray-200 pt-4">
 					<dt class="font-medium text-white">Many More</dt>
-					<dd class="mt-2 text-sm text-white">
-						Made from natural materials. Grain and color vary with each item.
-					</dd>
+					<dd class="mt-2 text-sm text-white">/Utilities/codes/qr</dd>
+					<dd class="mt-2 text-sm text-white">/SecureX/crypto/conversion</dd>
 					<button
 						class="text-white y-100 bg-transparent hover:bg-blue-600 x-23 font-semibold hover:text-white py-1 px-9 border border-  hover:border-transparent rounded"
 						>Read More</button
