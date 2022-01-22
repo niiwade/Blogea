@@ -208,9 +208,8 @@
 
 				<div class="border-t border-gray-200 pt-4">
 					<dt class="font-medium text-white">Data Formatting</dt>
-					<dd class="mt-2 text-sm text-white">
-						Solid walnut base with rare earth magnets and powder coated steel card cover
-					</dd>
+					<dd class="mt-2 text-sm text-white">/Utilities/ips/mine</dd>
+					<dd class="mt-2 text-sm text-white">/Utilities/formatting/uppercase</dd>
 					<button
 						class="text-white y-100 bg-transparent hover:bg-blue-600 x-23 font-semibold hover:text-white py-1 px-9 border border-  hover:border-transparent rounded"
 						>Read More</button
@@ -268,7 +267,7 @@
 				class="bg-white rounded-lg"
 			/>
 			<img
-				src="https://tailwindui.com/img/ecommerce-images/product-feature-03-detail-03.jpg"
+				src="/Bridge.gif"
 				alt="Side of walnut card tray with card groove and recessed card area."
 				class="bg-white rounded-lg"
 			/>
