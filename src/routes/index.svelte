@@ -198,8 +198,12 @@
 			<dl class="mt-16 grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 sm:gap-y-16 lg:gap-x-8">
 				<div class="border-t border-gray-200 pt-4">
 					<dt class="font-medium text-white">Authorization Functions</dt>
-					<dd class="mt-2 text-sm text-white">Designed by Good Goods, Inc.</dd>
-					<button class="text-white y-100">Read More</button>
+					<dd class="mt-2 text-sm text-white">/Auth/remote/signUp</dd>
+					<dd class="mt-2 text-sm text-white">/Auth/remote/signIn</dd>
+					<button
+						class="text-white y-100 bg-transparent hover:bg-blue-600 x-23 font-semibold hover:text-white py-1 px-9 border border-  hover:border-transparent rounded"
+						>Read More</button
+					>
 				</div>
 
 				<div class="border-t border-gray-200 pt-4">
@@ -207,21 +211,37 @@
 					<dd class="mt-2 text-sm text-white">
 						Solid walnut base with rare earth magnets and powder coated steel card cover
 					</dd>
+					<button
+						class="text-white y-100 bg-transparent hover:bg-blue-600 x-23 font-semibold hover:text-white py-1 px-9 border border-  hover:border-transparent rounded"
+						>Read More</button
+					>
 				</div>
 
 				<div class="border-t border-gray-200 pt-4">
 					<dt class="font-medium text-white">Data Sorting</dt>
 					<dd class="mt-2 text-sm text-white">6.25&quot; x 3.55&quot; x 1.15&quot;</dd>
+					<button
+						class="text-white y-100 bg-transparent hover:bg-blue-600 x-23 font-semibold hover:text-white py-1 px-9 border border-  hover:border-transparent rounded"
+						>Read More</button
+					>
 				</div>
 
 				<div class="border-t border-gray-200 pt-4">
 					<dt class="font-medium text-white">Data Storage</dt>
 					<dd class="mt-2 text-sm text-white">Hand sanded and finished with natural oil</dd>
+					<button
+						class="text-white y-100 bg-transparent hover:bg-blue-600 x-23 font-semibold hover:text-white py-1 px-9 border border-  hover:border-transparent rounded"
+						>Read More</button
+					>
 				</div>
 
 				<div class="border-t border-gray-200 pt-4">
 					<dt class="font-medium text-white">Bridges</dt>
 					<dd class="mt-2 text-sm text-white">Wood card tray and 3 refill packs</dd>
+					<button
+						class="text-white y-100 bg-transparent hover:bg-blue-600 x-23 font-semibold hover:text-white py-1 px-9 border border-  hover:border-transparent rounded"
+						>Read More</button
+					>
 				</div>
 
 				<div class="border-t border-gray-200 pt-4">
@@ -229,17 +249,21 @@
 					<dd class="mt-2 text-sm text-white">
 						Made from natural materials. Grain and color vary with each item.
 					</dd>
+					<button
+						class="text-white y-100 bg-transparent hover:bg-blue-600 x-23 font-semibold hover:text-white py-1 px-9 border border-  hover:border-transparent rounded"
+						>Read More</button
+					>
 				</div>
 			</dl>
 		</div>
 		<div class="grid grid-cols-2 grid-rows-2 gap-4 sm:gap-6 lg:gap-8">
 			<img
-				src="https://tailwindui.com/img/ecommerce-images/product-feature-03-detail-01.jpg"
+				src="/auth.gif"
 				alt="Walnut card tray with white powder coated steel divider and 3 punchout holes."
 				class="bg-white rounded-lg"
 			/>
 			<img
-				src="https://tailwindui.com/img/ecommerce-images/product-feature-03-detail-02.jpg"
+				src="/data.gif"
 				alt="Top down view of walnut card tray with embedded magnets and card groove."
 				class="bg-white rounded-lg"
 			/>
