@@ -8,7 +8,11 @@
 			<h1 class="text-3xl font-bold text-white dark:text-white md:text-4xl">
 				Powerful endpoints used for beautiful websites worldwide
 			</h1>
-			<img src="/home.gif" class="rounded-full w-600 h-600 object-position: right mx-auto " />
+			<img
+				src="/home.gif"
+				class="rounded-full w-600 h-600 object-position: right mx-auto "
+				alt="loading"
+			/>
 			<p class="mt-6 text-white  dark:text-gray-300">
 				You dont want to worry about building your api's because we got that covered.
 			</p>
@@ -274,7 +278,7 @@
 				class="bg-white rounded-lg"
 			/>
 			<img
-				src="https://tailwindui.com/img/ecommerce-images/product-feature-03-detail-04.jpg"
+				src="finance.gif"
 				alt="Walnut card tray filled with cards and card angled in dedicated groove."
 				class="bg-white rounded-lg"
 			/>
